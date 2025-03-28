@@ -51,7 +51,7 @@ On Windows, gamepad input can also be viewed by going to “Control Panel” -> 
 
 To view the input, open a browser window and go to https://gamepad-tester.com/. The connected gamepad device should show up here, and some of the buttons and axes should show changing values.
 
-On Android, gamepad testing apps such as `Andriod Gamepad Tester <https://play.google.com/store/apps/details?id=com.chimera.saturday.evogamepadtester>`_  
+On Android, gamepad testing apps such as `Android Gamepad Tester <https://play.google.com/store/apps/details?id=com.chimera.saturday.evogamepadtester>`_  
 can also be used to view the gamepad input.
 
 |image06|

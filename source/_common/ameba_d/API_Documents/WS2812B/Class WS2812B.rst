@@ -386,7 +386,7 @@ Fill all the LEDs with one or more cycle of hues
 
 ``saturation``: Intensity or purity of the color in 8-bit. (Default: 255. Acceptable range from: 0 - 255, you will get pastel color when value setting is adjusted to the middle)
 
-``brightness``: Brightness of a color in 8-bit. (Defualt: 60. Acceptable range from 0-255)
+``brightness``: Brightness of a color in 8-bit. (Default: 60. Acceptable range from 0-255)
 
 **Returns**
 ~~~~~~~~~~~
